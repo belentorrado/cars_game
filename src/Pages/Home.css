@@ -1,0 +1,70 @@
+.Home {
+  text-align: left;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-left: 100px;
+  align-items: center;
+  margin: 0px auto;
+}
+
+
+.Home-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.navbar {
+  text-align: left;
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin: 0px auto;
+}
+
+.p {
+  color: black;
+}
+
+h3 {
+  color: black
+}
+
+.carousel-inner img {
+  margin: auto;
+  width: "20%";
+  height: "5%"
+}
+
+.carousel-inner div {
+  position: relative;
+  left: 0%;
+  right: auto;
+}
+
+.carousel-inner {
+  background-color: blanchedalmond;
+  position: relative;
+  margin: auto;
+}
+
+.customDiv {
+  text-align: center;
+  align-items: center;
+}
+
+.customDiv h1 {
+  width: 50%;
+  margin: auto;
+}

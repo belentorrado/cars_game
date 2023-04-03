@@ -1,0 +1,27 @@
+.titulo {
+  font-size: calc(14px + 2vmin);
+  color: aqua;
+}
+
+.detalleProducto{
+   max-width: 500px;
+   align-items: center;
+   margin:0px auto;
+}
+
+ .img{
+  object-fit: cover;
+  width:100%;
+  height:100%;
+}
+
+.boton {
+  align-items: center;
+  margin: auto;
+  text-align: center;
+  padding-top: 30px;
+}
+
+
+
+
